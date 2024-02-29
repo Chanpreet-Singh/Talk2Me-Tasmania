@@ -1,4 +1,4 @@
-# A comparison between NLP and traditional statistical analyses for dementia prediction
+# A comparison between NLP and traditional statistical analysis for dementia prediction
 This work was carried out as an experimental research-based project and completed as a part of the curriculum of the program Master of Applied Computer Science at [Dalhousie University](https://www.dal.ca/faculty/computerscience/graduate-programs.html), Canada under the supervision of [Dr.Frank Rudzicz](https://web.cs.dal.ca/~rudzicz/) in association with the [Vector Institute for AI](https://vectorinstitute.ai/), Canada and [University of Tasmania](https://www.utas.edu.au/wicking), Australia.
 
 #### About Talk2Me
